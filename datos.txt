@@ -1,0 +1,9 @@
+Instalar Typescript
+npm install -g typescript
+
+Iniciar tsconfig
+tsc --init
+
+Observar cambios
+tsc --watch
+
